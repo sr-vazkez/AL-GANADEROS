@@ -1,0 +1,16 @@
+========================
+Proyecto Desarrollado por Programing answer
+Este software para ser ejecutado se necesita los siguientes requerimientos mínimos 
+para su ejecución
+Procesador intel inside a 1.6GHz
+Memoria RAM 2 Gb 
+Tarjeta de video mayor a 256Mb
+Sistema Operativo Windows Xp o superior 
+Mac Os Hig Sierra
+Cualquier Distribución de Linux
+Tener Java Instalado
+Tener un Servidor local que tenga SQL 
+Para que el software  de excelentes resultados, se debe poner el archivo 
+bd_ganaderos-3.sql en su administrador de base de datos
+EL ARCHIVO JAR DEBE DE ESTAR ALMACENADO JUNTO CON LA CARPETA lib
+Disfrute su software y gracias por su preferencia
